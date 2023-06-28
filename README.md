@@ -6,7 +6,7 @@ which means they can be used from the command line.
 
 # Hide tool
 To hide data, the following command can be used:  
-`python3 Hide.py -f path/to/image.dd -d dataToHide - techniqueToUse --log/--no-log`  
+`python3 Hide.py -f path/to/image.dd -d dataToHide -t techniqueNrToUse --log/--no-log`  
 All the techniques used to hide data are listed in the thesis, which can be found ... .
 
 # Detection tool
