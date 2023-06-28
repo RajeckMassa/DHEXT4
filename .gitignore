@@ -1,0 +1,6 @@
+venv/
+*.dd
+*.xml
+*.pyc
+.DS_Store
+.idea/
