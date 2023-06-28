@@ -1,8 +1,7 @@
 # Automatic Data Hiding detection in EXT4
 This project is created for my bachelor thesis "Creating a Detection Tool for Data Hiding Techniques
 in EXT4" at University Leiden, Netherlands. The bachelor thesis was supervised by dr. K. F. D. Rietveld.  
-This project contains a detection, hide and benchmark tool, all written in Python. All the tools require Python 3.10 and
-several external packages, which all can be installed by 'pip install -r requirements.txt'. All the tools are CLI programs,
+This project contains a detection, hide and benchmark tool, all written in Python. All the tools require Python 3.10. All the tools are CLI programs,
 which means they can be used from the command line.
 
 # Hide tool
