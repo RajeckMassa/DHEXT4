@@ -295,8 +295,6 @@ class Hide:
                     return False
                 return True
             case "backup_superblock":
-                if self.volume.block_size <= 1024:
-                    return False
                 if len(self.volume.group_descriptors) < 3:
                     return False
                 return True
